@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="Django" />
+            <item index="1" class="java.lang.String" itemvalue="typing_extensions" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="loader.dp" />
+          <option value="states.PersonState" />
+          <option value="loader.bot" />
+          <option value="loader.Bot" />
+          <option value="keyboards.default.menu.menu" />
+          <option value="keyboards.inline.inline_buttom" />
+          <option value="config.settings.pathlib" />
+          <option value="configapp.views.*" />
+          <option value="configapp.models.*" />
+          <option value="ApiHello.configapp.serializers.*" />
+          <option value="configapp.serializers.*" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
